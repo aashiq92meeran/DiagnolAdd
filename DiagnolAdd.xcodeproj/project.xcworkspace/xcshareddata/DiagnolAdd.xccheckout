@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>11620027-EDBB-4E52-BA98-A16A3839A665</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DiagnolAdd</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>168F62C6-1137-48DE-8C9D-AEF3088981AF</key>
+		<string>https://github.com/aashiq92meeran/DiagnolAdd.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DiagnolAdd.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>168F62C6-1137-48DE-8C9D-AEF3088981AF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aashiq92meeran/DiagnolAdd.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>168F62C6-1137-48DE-8C9D-AEF3088981AF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>168F62C6-1137-48DE-8C9D-AEF3088981AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DiagnolAdd</string>
+		</dict>
+	</array>
+</dict>
+</plist>

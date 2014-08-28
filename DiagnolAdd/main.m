@@ -19,10 +19,10 @@ int main(int argc, const char * argv[])
     @autoreleasepool
     
     {
-        for (row=1; row<=5; row++) {
+        for (row=1; row<=2; row++) {
             printf("enter matrix %drow values\n",row);
             
-            for (column=1; column<=5; column++) {
+            for (column=1; column<=2; column++) {
                 
                //row=mat[row][column];
                 scanf("%d",&mat[row][column]);
@@ -31,10 +31,10 @@ int main(int argc, const char * argv[])
         }
         
         printf("\n matrix display ");
-        for (row=1; row<=5; row++) {
+        for (row=1; row<=2; row++) {
             
             printf("\n ");
-            for (column=1; column<=5; column++) {
+            for (column=1; column<=2; column++) {
                 
                 
                 printf(" %d",mat[row][column]);
@@ -45,10 +45,10 @@ int main(int argc, const char * argv[])
         }
         //
         {
-            for (row1=1; row1<=5; row1++) {
+            for (row1=1; row1<=2; row1++) {
                 printf(" \n enter matrix %drow values\n",row1);
                 
-                for (column1=1; column1<=5; column1++) {
+                for (column1=1; column1<=2; column1++) {
                     
                     //row1=mat1[row1][column1];
                     scanf("%d",&mat1[row1][column1]);
@@ -57,10 +57,10 @@ int main(int argc, const char * argv[])
             }
             
             printf("\n matrix display ");
-            for (row1=1; row1<=5; row1++) {
+            for (row1=1; row1<=2; row1++) {
                 
                 printf("\n ");
-                for (column1=1; column1<=5; column1++) {
+                for (column1=1; column1<=2; column1++) {
                     
                     
                     printf(" %d",mat1[row1][column1]);
@@ -73,10 +73,10 @@ int main(int argc, const char * argv[])
             {
                 printf("\n  \n matrix display ");
                 
-                for (row2=1; row2<=5; row2++) {
+                for (row2=1; row2<=2; row2++) {
                     // printf(" \n enter matrix %drow values\n",row2);
                     
-                    for (column2=1; column2<=5; column2++)
+                    for (column2=1; column2<=2; column2++)
                         if (row2==column2) {
                             
             mat2[row2][column2]= mat[row2][column2] + mat1[row2][column2];
@@ -85,10 +85,10 @@ int main(int argc, const char * argv[])
                     
                     
                 }
-                for (row2=1; row2<=5; row2++) {
+                for (row2=1; row2<=2; row2++) {
                     
                     printf("\n ");
-                    for (column2=1; column2<=5; column2++) {
+                    for (column2=1; column2<=2; column2++) {
                         
                         
                         printf("  %d",mat2[row2][column2]);
